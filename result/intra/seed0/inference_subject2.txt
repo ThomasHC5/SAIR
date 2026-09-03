@@ -1,0 +1,201 @@
+The test Top1-0.660000, Top3-0.870000, Top5-0.935000
+Sample 1: [154   1  59 175 181], Top-1 0, Top-5 1
+Sample 2: [  2 150 106  58 142], Top-1 1, Top-5 1
+Sample 3: [  3 194  26 156 153], Top-1 1, Top-5 1
+Sample 4: [  4 170  16 134 175], Top-1 1, Top-5 1
+Sample 5: [  5   2 134 127 150], Top-1 1, Top-5 1
+Sample 6: [  6 170  44 106   4], Top-1 1, Top-5 1
+Sample 7: [  7 120 147 190 109], Top-1 1, Top-5 1
+Sample 8: [187 125 184   3   8], Top-1 0, Top-5 1
+Sample 9: [ 9 75 49 90 30], Top-1 1, Top-5 1
+Sample 10: [ 10 185 200 175  69], Top-1 1, Top-5 1
+Sample 11: [ 11 164 105  98 156], Top-1 1, Top-5 1
+Sample 12: [137  12  87  33  39], Top-1 0, Top-5 1
+Sample 13: [ 13  85 172  28  25], Top-1 1, Top-5 1
+Sample 14: [ 14 100 191  31 172], Top-1 1, Top-5 1
+Sample 15: [102  15 114 148 182], Top-1 0, Top-5 1
+Sample 16: [ 11   3 200  35 105], Top-1 0, Top-5 0
+Sample 17: [ 17 175  44 105 164], Top-1 1, Top-5 1
+Sample 18: [174 113  55 123  18], Top-1 0, Top-5 1
+Sample 19: [ 19 168  24 148 191], Top-1 1, Top-5 1
+Sample 20: [ 44  20  35 200 164], Top-1 0, Top-5 1
+Sample 21: [ 66  21  82 134  53], Top-1 0, Top-5 1
+Sample 22: [113  22 174  91  27], Top-1 0, Top-5 1
+Sample 23: [ 23 188  49 199  40], Top-1 1, Top-5 1
+Sample 24: [ 24 110  51 190  43], Top-1 1, Top-5 1
+Sample 25: [ 25 100  31  39  14], Top-1 1, Top-5 1
+Sample 26: [ 26 200  44  66  17], Top-1 1, Top-5 1
+Sample 27: [163 174 184 113 182], Top-1 0, Top-5 0
+Sample 28: [ 28 162 138 153 194], Top-1 1, Top-5 1
+Sample 29: [ 29 123 163  32  55], Top-1 1, Top-5 1
+Sample 30: [185 200  10  30  17], Top-1 0, Top-5 1
+Sample 31: [ 31 102  84  56  25], Top-1 1, Top-5 1
+Sample 32: [ 32  29 163 114 123], Top-1 1, Top-5 1
+Sample 33: [137  87 142  12  88], Top-1 0, Top-5 0
+Sample 34: [ 34 183 151  89 110], Top-1 1, Top-5 1
+Sample 35: [ 35 181 200  44  20], Top-1 1, Top-5 1
+Sample 36: [ 36 170  21 134   9], Top-1 1, Top-5 1
+Sample 37: [ 37 127 111  72  52], Top-1 1, Top-5 1
+Sample 38: [ 93  67  38 103 181], Top-1 0, Top-5 1
+Sample 39: [ 87  39 142  12 137], Top-1 0, Top-5 1
+Sample 40: [ 40 187  23 178 180], Top-1 1, Top-5 1
+Sample 41: [ 41  40 167  23 178], Top-1 1, Top-5 1
+Sample 42: [ 62  42   4 127   9], Top-1 0, Top-5 1
+Sample 43: [ 37  43  81 187 121], Top-1 0, Top-5 1
+Sample 44: [ 44 171 105  26 200], Top-1 1, Top-5 1
+Sample 45: [ 45 181 176 116  52], Top-1 1, Top-5 1
+Sample 46: [152 127 141  46 133], Top-1 0, Top-5 1
+Sample 47: [ 47 200 173  73 164], Top-1 1, Top-5 1
+Sample 48: [120  48 109 114 195], Top-1 0, Top-5 1
+Sample 49: [ 49 198 146  79 188], Top-1 1, Top-5 1
+Sample 50: [113  55 120 123  50], Top-1 0, Top-5 1
+Sample 51: [ 51 143 168  29 147], Top-1 1, Top-5 1
+Sample 52: [ 52 176  37 128  45], Top-1 1, Top-5 1
+Sample 53: [53 75 89 86 76], Top-1 1, Top-5 1
+Sample 54: [184  54 125  27  40], Top-1 0, Top-5 1
+Sample 55: [123  55 163  29  18], Top-1 0, Top-5 1
+Sample 56: [102  56 114  31  84], Top-1 0, Top-5 1
+Sample 57: [ 29 123 195  55 148], Top-1 0, Top-5 0
+Sample 58: [ 58 127 150 106   2], Top-1 1, Top-5 1
+Sample 59: [ 59  75 172 175 154], Top-1 1, Top-5 1
+Sample 60: [60 79 75  1 59], Top-1 1, Top-5 1
+Sample 61: [192 195 109  61  55], Top-1 0, Top-5 1
+Sample 62: [ 62  42 187  93 139], Top-1 1, Top-5 1
+Sample 63: [ 63  14 106  39 133], Top-1 1, Top-5 1
+Sample 64: [102  64  29 148 101], Top-1 0, Top-5 1
+Sample 65: [ 65   7 126 162 147], Top-1 1, Top-5 1
+Sample 66: [ 66  44  35  26 200], Top-1 1, Top-5 1
+Sample 67: [103  67  93  49 198], Top-1 0, Top-5 1
+Sample 68: [ 68 154  67   1  93], Top-1 1, Top-5 1
+Sample 69: [ 69  97 160  76 185], Top-1 1, Top-5 1
+Sample 70: [142 111  87 129  70], Top-1 0, Top-5 1
+Sample 71: [ 71  73 116 187   5], Top-1 1, Top-5 1
+Sample 72: [ 58 127  72 142 137], Top-1 0, Top-5 1
+Sample 73: [ 35  73 200  44  26], Top-1 0, Top-5 1
+Sample 74: [ 74 191 141 170 193], Top-1 1, Top-5 1
+Sample 75: [ 75 154  79  59 160], Top-1 1, Top-5 1
+Sample 76: [ 76  86 161 150 106], Top-1 1, Top-5 1
+Sample 77: [ 77 181 116  67 141], Top-1 1, Top-5 1
+Sample 78: [116 198 180  78  41], Top-1 0, Top-5 1
+Sample 79: [181  79  60  77 173], Top-1 0, Top-5 1
+Sample 80: [ 80 112 190  43 174], Top-1 1, Top-5 1
+Sample 81: [120  81 101  48 114], Top-1 0, Top-5 1
+Sample 82: [82 66 68 19 98], Top-1 1, Top-5 1
+Sample 83: [114  83 155 102 104], Top-1 0, Top-5 1
+Sample 84: [100  84  31 115 172], Top-1 0, Top-5 1
+Sample 85: [ 85  49 188 114 165], Top-1 1, Top-5 1
+Sample 86: [ 19  53 183 195  86], Top-1 0, Top-5 1
+Sample 87: [ 87 142  12 137 106], Top-1 1, Top-5 1
+Sample 88: [129 111  88 142 137], Top-1 0, Top-5 1
+Sample 89: [ 72 127  86 136  58], Top-1 0, Top-5 0
+Sample 90: [ 90  19  49   5 146], Top-1 1, Top-5 1
+Sample 91: [ 91 113  27 174  57], Top-1 1, Top-5 1
+Sample 92: [102 166   4 148 191], Top-1 0, Top-5 0
+Sample 93: [ 93  98 185 173 103], Top-1 1, Top-5 1
+Sample 94: [ 94 196  95  19 182], Top-1 1, Top-5 1
+Sample 95: [ 95 114 102 108  90], Top-1 1, Top-5 1
+Sample 96: [ 45  96 176  58 177], Top-1 0, Top-5 1
+Sample 97: [111 110  86 142  70], Top-1 0, Top-5 0
+Sample 98: [98 93 11 68 38], Top-1 1, Top-5 1
+Sample 99: [ 99  49 180  43 198], Top-1 1, Top-5 1
+Sample 100: [100 115 172  31  84], Top-1 1, Top-5 1
+Sample 101: [101  81 141 123 102], Top-1 1, Top-5 1
+Sample 102: [102 114 123  25 163], Top-1 1, Top-5 1
+Sample 103: [103  67  93  68  49], Top-1 1, Top-5 1
+Sample 104: [104 155  37  52  83], Top-1 1, Top-5 1
+Sample 105: [105  44 171 164  26], Top-1 1, Top-5 1
+Sample 106: [106  63 137  72 127], Top-1 1, Top-5 1
+Sample 107: [ 90 107 112  94 192], Top-1 0, Top-5 1
+Sample 108: [108  49  79 119  75], Top-1 1, Top-5 1
+Sample 109: [109 112  18 148 120], Top-1 1, Top-5 1
+Sample 110: [110  86 183  89 111], Top-1 1, Top-5 1
+Sample 111: [ 87 142 137  12 111], Top-1 0, Top-5 1
+Sample 112: [112 109 120 147  18], Top-1 1, Top-5 1
+Sample 113: [113 123 163  55 120], Top-1 1, Top-5 1
+Sample 114: [114 102  56  83 143], Top-1 1, Top-5 1
+Sample 115: [100 115 172  58 176], Top-1 0, Top-5 1
+Sample 116: [181 173 116  77 200], Top-1 0, Top-5 1
+Sample 117: [117 151  53 155 183], Top-1 1, Top-5 1
+Sample 118: [187 118  37 190 127], Top-1 0, Top-5 1
+Sample 119: [119 130 192 102  79], Top-1 1, Top-5 1
+Sample 120: [120  81 123 114 109], Top-1 1, Top-5 1
+Sample 121: [121 116 188  49 181], Top-1 1, Top-5 1
+Sample 122: [122 131  98  68  40], Top-1 1, Top-5 1
+Sample 123: [123  29  55 163 120], Top-1 1, Top-5 1
+Sample 124: [124 125 195 131 193], Top-1 1, Top-5 1
+Sample 125: [125  54 184  74 141], Top-1 1, Top-5 1
+Sample 126: [126 131  68 103 147], Top-1 1, Top-5 1
+Sample 127: [127 106  72  84  89], Top-1 1, Top-5 1
+Sample 128: [128  81 152  15 157], Top-1 1, Top-5 1
+Sample 129: [129  12 137 142  87], Top-1 1, Top-5 1
+Sample 130: [130 125  54 119 156], Top-1 1, Top-5 1
+Sample 131: [131   7 198 187  40], Top-1 1, Top-5 1
+Sample 132: [120 112 114 123  55], Top-1 0, Top-5 0
+Sample 133: [133 152  39  12  87], Top-1 1, Top-5 1
+Sample 134: [134 170  16  41  30], Top-1 1, Top-5 1
+Sample 135: [123  29  55 135  18], Top-1 0, Top-5 1
+Sample 136: [150 111   2 142  87], Top-1 0, Top-5 0
+Sample 137: [137  87 142  33  88], Top-1 1, Top-5 1
+Sample 138: [138  40  23  13  28], Top-1 1, Top-5 1
+Sample 139: [139 185 187  93 180], Top-1 1, Top-5 1
+Sample 140: [ 29 140 112  32 163], Top-1 0, Top-5 1
+Sample 141: [141 174 125  55 103], Top-1 1, Top-5 1
+Sample 142: [ 87 142  12   2 137], Top-1 0, Top-5 1
+Sample 143: [ 55 143 114  51  29], Top-1 0, Top-5 1
+Sample 144: [144  86  72 161 111], Top-1 1, Top-5 1
+Sample 145: [134 170  78  62 164], Top-1 0, Top-5 0
+Sample 146: [146  93  49  67  45], Top-1 1, Top-5 1
+Sample 147: [114 143 147 120 158], Top-1 0, Top-5 1
+Sample 148: [148 174 102 114 163], Top-1 1, Top-5 1
+Sample 149: [180  20 149  35   6], Top-1 0, Top-5 1
+Sample 150: [150  58  76 161  86], Top-1 1, Top-5 1
+Sample 151: [151 176 100 155 104], Top-1 1, Top-5 1
+Sample 152: [152 142   2 127  58], Top-1 1, Top-5 1
+Sample 153: [153 184 174 163  31], Top-1 1, Top-5 1
+Sample 154: [173 154 175  69 200], Top-1 0, Top-5 1
+Sample 155: [155 104  50  89 114], Top-1 1, Top-5 1
+Sample 156: [156 170   3 164  26], Top-1 1, Top-5 1
+Sample 157: [157 195  57  81 143], Top-1 1, Top-5 1
+Sample 158: [158  52  37   7  93], Top-1 1, Top-5 1
+Sample 159: [184 182 159  64 123], Top-1 0, Top-5 1
+Sample 160: [160 181 154 173 175], Top-1 1, Top-5 1
+Sample 161: [142  87 106   2 161], Top-1 0, Top-5 1
+Sample 162: [162 112 109   1  65], Top-1 1, Top-5 1
+Sample 163: [163 123 113  55  29], Top-1 1, Top-5 1
+Sample 164: [164   3  41  11 193], Top-1 1, Top-5 1
+Sample 165: [  6 170  41 119 191], Top-1 0, Top-5 0
+Sample 166: [102 166 148 174 114], Top-1 0, Top-5 1
+Sample 167: [167 170  41   6   4], Top-1 1, Top-5 1
+Sample 168: [168 127 146 143 157], Top-1 1, Top-5 1
+Sample 169: [169 155 114  89  56], Top-1 1, Top-5 1
+Sample 170: [170  26   3  44 164], Top-1 1, Top-5 1
+Sample 171: [ 44 200 105 171  26], Top-1 0, Top-5 1
+Sample 172: [172 115 180 100 129], Top-1 1, Top-5 1
+Sample 173: [173 145  69 200 181], Top-1 1, Top-5 1
+Sample 174: [174 182 184 113 148], Top-1 1, Top-5 1
+Sample 175: [175 181  17 200 154], Top-1 1, Top-5 1
+Sample 176: [176  58 127 161  63], Top-1 1, Top-5 1
+Sample 177: [177  96 176  45  20], Top-1 1, Top-5 1
+Sample 178: [121 178 116 181  41], Top-1 0, Top-5 1
+Sample 179: [179  16 193 125 130], Top-1 1, Top-5 1
+Sample 180: [180 119  49 188 115], Top-1 1, Top-5 1
+Sample 181: [181  77 116  45  35], Top-1 1, Top-5 1
+Sample 182: [182  85  75 102 191], Top-1 1, Top-5 1
+Sample 183: [191  89 183  86 155], Top-1 0, Top-5 1
+Sample 184: [184 174 163  55 132], Top-1 1, Top-5 1
+Sample 185: [185  10  93 200 175], Top-1 1, Top-5 1
+Sample 186: [186 192  90  49 114], Top-1 1, Top-5 1
+Sample 187: [187  23  37 157  40], Top-1 1, Top-5 1
+Sample 188: [ 49 188  79  93 179], Top-1 0, Top-5 1
+Sample 189: [189 176  45 158   6], Top-1 1, Top-5 1
+Sample 190: [190 118 129 187 133], Top-1 1, Top-5 1
+Sample 191: [191  95  75  89  86], Top-1 1, Top-5 1
+Sample 192: [192 195 102 120 148], Top-1 1, Top-5 1
+Sample 193: [ 98 122 103 188  38], Top-1 0, Top-5 0
+Sample 194: [153 194 163  13 138], Top-1 0, Top-5 1
+Sample 195: [192 195 119  90  18], Top-1 0, Top-5 1
+Sample 196: [ 95  75 196 154   9], Top-1 0, Top-5 1
+Sample 197: [197 155  89 117  49], Top-1 1, Top-5 1
+Sample 198: [198 181 116  35 180], Top-1 1, Top-5 1
+Sample 199: [101  56 102   6 128], Top-1 0, Top-5 0
+Sample 200: [200   3 185  10  35], Top-1 1, Top-5 1

@@ -1,0 +1,18 @@
+# Generated and downloaded data
+/Data/**
+!/Data/**/
+!/Data/**/.gitkeep
+
+# Model checkpoints
+/model/**
+!/model/**/
+!/model/**/.gitkeep
+
+# Downloaded depth-estimation checkpoints
+/processing_image/checkpoints/**
+!/processing_image/checkpoints/.gitkeep
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
